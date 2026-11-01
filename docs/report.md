@@ -23,7 +23,7 @@
 
 **Создание кастомной HTML-страницы:**
 Был создан файл `task1/index.html`, который монтируется в контейнер `mynginxalpine` через volume.
-![Docker images]()
+![Docker images](https://github.com/Gorilleza/DevOps_lab1/blob/main/docs/Снимок%20экрана%C2%A0—%202026-11-01%20в%C2%A019.26.42.png)
 
 **Работа с контейнером (exec и интерактивный режим):**
 
